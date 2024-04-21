@@ -11,7 +11,7 @@ const Home = () => {
       <>
          <Navbar bg="dark" variant="dark">
             <Container>
-               <Navbar.Brand>ComplaintCare </Navbar.Brand>
+               <Navbar.Brand>Complaint Box</Navbar.Brand>
                <ul className="navbar-nav">
                   <li className="nav-item mb-2">
                      <Link to={'/'}
